@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-workflow/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-workflow/static/js/main.b23e7040.chunk.js",
+    "main.js.map": "/react-workflow/static/js/main.b23e7040.chunk.js.map",
+    "runtime-main.js": "/react-workflow/static/js/runtime-main.1d05627d.js",
+    "runtime-main.js.map": "/react-workflow/static/js/runtime-main.1d05627d.js.map",
+    "static/js/2.42cdca1b.chunk.js": "/react-workflow/static/js/2.42cdca1b.chunk.js",
+    "static/js/2.42cdca1b.chunk.js.map": "/react-workflow/static/js/2.42cdca1b.chunk.js.map",
+    "index.html": "/react-workflow/index.html",
+    "precache-manifest.bc182b6ad4781a56c9bd89101becc563.js": "/react-workflow/precache-manifest.bc182b6ad4781a56c9bd89101becc563.js",
+    "service-worker.js": "/react-workflow/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-workflow/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.42cdca1b.chunk.js.LICENSE.txt": "/react-workflow/static/js/2.42cdca1b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-workflow/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d05627d.js",
+    "static/js/2.42cdca1b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b23e7040.chunk.js"
+  ]
+}
